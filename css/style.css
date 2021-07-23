@@ -48,3 +48,7 @@ footer ul {
     display: inline-block;
     vertical-align: top;
 }
+
+body {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
